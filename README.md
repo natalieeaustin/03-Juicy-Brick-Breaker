@@ -1,20 +1,23 @@
 # Brick-Breaker
 
-A starting place for Project 03
-
-
-```
 # Project Name
-Context and date
+03-Juicy-Brick-Breaker 
+10/13/2022 
 
-Description
+This game is where you try to break all the bricks set up in a design on the screen. For added fun there are some effects that happen as you break the bricks. 
 
 ## Implementation
-Which features you included
+All features included from basic tutorials. 
+Advanced Features - Music Box
+Advanced Features - Sound Effects 
+Advanced Features - Swapping Backgrounds 
 
 ## References
+Jason Francis Youtube Tutorial Videos 
 
 ## Future Development
+None 
 
 ## Created by
+Natalie Austin
 ```
