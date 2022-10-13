@@ -14,6 +14,7 @@ Advanced Features - Swapping Backgrounds
 
 ## References
 Jason Francis Youtube Tutorial Videos 
+Music: patrickdearteaga.com 
 
 ## Future Development
 None 
