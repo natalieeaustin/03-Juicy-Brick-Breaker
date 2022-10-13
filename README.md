@@ -16,6 +16,7 @@ Advanced Features - Swapping Backgrounds
 Jason Francis Youtube Tutorial Videos 
 Music: patrickdearteaga.com 
 Sounds: freesounds.org 
+kenney.nl/puzzle_packs
 
 ## Future Development
 None 
