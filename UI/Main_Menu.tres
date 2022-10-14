@@ -1,0 +1,31 @@
+[gd_resource type="Theme" load_steps=5 format=2]
+
+[ext_resource path="res://Assets/Aiden-v7DO.otf" type="DynamicFontData" id=1]
+
+[sub_resource type="DynamicFont" id=6]
+font_data = ExtResource( 1 )
+
+[sub_resource type="StyleBoxFlat" id=10]
+bg_color = Color( 0.862745, 0.14902, 0.14902, 1 )
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color( 0.0470588, 0.0470588, 0.0470588, 1 )
+corner_radius_top_left = 20
+corner_radius_top_right = 20
+corner_radius_bottom_right = 20
+corner_radius_bottom_left = 20
+
+[sub_resource type="DynamicFont" id=4]
+size = 22
+font_data = ExtResource( 1 )
+
+[resource]
+Button/fonts/font = SubResource( 6 )
+Button/styles/disabled = SubResource( 10 )
+Button/styles/focus = SubResource( 10 )
+Button/styles/hover = SubResource( 10 )
+Button/styles/normal = SubResource( 10 )
+Button/styles/pressed = SubResource( 10 )
+Label/fonts/font = SubResource( 4 )
